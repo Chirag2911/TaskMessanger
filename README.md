@@ -1,12 +1,12 @@
-<h1>Readme</h1><br>
+<h2>Readme</h2><br>
 <p> Open source project in order to implement list view with task events on android. <br>
 Currenty it is implemented based on android framework view source. 
 You can check modified view sources in internal package.
-<h1>Screen Shot</h1>
+<h2>Screen Shot</h2>
 <img style ="max-width:100%" 
 data-canonical-src = "https://github.com/raychevamarina/TaskMessanger/master/ic_action_edit.png" 
 alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/ic_action_new.png?raw=true">
-<h1>License</h1>
+<h2>License</h2>
 <pre>
 <code>Copyright TaskMessanger authors. All rights reserved.
 
