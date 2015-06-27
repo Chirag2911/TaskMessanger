@@ -5,10 +5,10 @@ You can check modified view sources in internal package.
 <h2>Screen Shot</h2>
 <img style ="max-width:100%" 
 data-canonical-src = "https://github.com/raychevamarina/TaskMessanger/master/ic_action_edit.png" 
-alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/ic_action_new.png?raw=true">
+alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/screenshoot.png?raw=true">
 <h2>License</h2>
 <pre>
-<code>Copyright TaskMessanger authors. All rights reserved.
+<code>Copyright TaskMessanger 2015 Marina Raycheva
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
