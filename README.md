@@ -1,14 +1,30 @@
-<h2>Readme</h2><br>
+<h2>TaskMessanger</h2><br>
 <p> Open source project in order to implement list view with task events on android. <br>
 Currenty it is implemented based on android framework view source. 
 You can check modified view sources in internal package.
-<h2>Screen Shot</h2>
+
+<h2>Screenshot</h2>
 <img style ="max-width:100%" 
 data-canonical-src = "https://github.com/raychevamarina/TaskMessanger/master/ic_action_edit.png" 
-alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/ic_action_new.png?raw=true">
+alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/screenshoot.png?raw=true">
+<h2>Setup</h2>
+<p>
+
+When using Gson 2.2 is included as well.
+Add the following to your build.gradle</p>
+<pre>
+   <code>
+   dependencies {
+      compile fileTree(dir: 'libs', include: ['*.jar'])
+      compile 'com.android.support:appcompat-v7:22.2.0'
+      compile 'com.google.code.gson:gson:2.2.+'
+   }
+   </code>
+</pre>
+
 <h2>License</h2>
 <pre>
-<code>Copyright TaskMessanger authors. All rights reserved.
+<code>Copyright TaskMessanger 2015 Marina Raycheva
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
