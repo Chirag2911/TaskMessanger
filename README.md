@@ -6,7 +6,7 @@ You can check modified view sources in internal package.
 <h2>Screenshot</h2>
 <img style ="max-width:100%" 
 data-canonical-src = "https://github.com/raychevamarina/TaskMessanger/master/ic_action_edit.png" 
-alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/screenshoot.png?raw=true">
+alt="Example image" src="https://github.com/raychevamarina/TaskMessanger/blob/master/app/src/main/res/drawable/screenshoot_v2.png?raw=true">
 <h2>Setup</h2>
 <p>
 
