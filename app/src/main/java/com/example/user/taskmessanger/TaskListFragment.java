@@ -141,7 +141,7 @@ public class TaskListFragment extends ListFragment
             taskInfo.setArguments(args);
 
             getActivity().getFragmentManager().beginTransaction()
-                    .replace(R.id.container, taskInfo)
+                    .replace(android.R.id.content, taskInfo)
                     .addToBackStack(null)
                     .commit();
         }
